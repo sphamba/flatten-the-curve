@@ -48,4 +48,4 @@ The [Bodacki-Shampine method](https://en.wikipedia.org/wiki/List_of_Runge%E2%80%
 
 ## Try it
 
-The presentation is accessible [here](https://soni-sona.github.io/flatten-the-curve/index.html).
+The presentation is accessible [here](https://sphamba.github.io/flatten-the-curve/index.html).
